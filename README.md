@@ -1,5 +1,9 @@
 <h1 align="center"> Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Glad to see you here! 👩‍💻</h1>
 
+<p align="center">
+ <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Frontend+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="50%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="40%"/>
 
