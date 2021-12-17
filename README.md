@@ -1,6 +1,6 @@
 <h1 align="center"> Hello world! <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></a> Glad to see you here! 👩‍💻</h1>
 <p align="center">
- <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Frontend+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Front+-+end+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <p align="center">Connect with me &nbsp <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px"></a></p>
 <p align="center">
@@ -29,7 +29,7 @@
 
 <h2 align="center"> ✨ Hobbies </h2>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://i.pinimg.com/originals/7d/89/43/7d894356fc90d951469bf64055b76ad1.gif" width="45%"></a>
-<!--Being embarrassed is one of my favorite hobbies-->
+Being embarrassed is one of my favorite hobbies
 
 <h2 align="center"> 🌿 Languages & Tools </h2>
 <br>
@@ -45,7 +45,7 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65px"/ </a>
 </p>
                   
-<h2 align="center"> 📈 Github Stats</h2>
+<h2 align="center"> 📈 Github Stats <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px"></a></h2>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MariadelCarmenGallardoGonzalez&repo=Bgstatic&countColorcountColor&countColor=%23F7698C"/></a>
