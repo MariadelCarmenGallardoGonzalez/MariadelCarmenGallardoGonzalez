@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! 👋 Glad to see you here! </h1>
+<h1 align="center"> Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Glad to see you here! </h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="50%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="40%"/>
