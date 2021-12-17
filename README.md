@@ -1,4 +1,4 @@
-### Hi there! 👋 Glad to see you here!
+<h1 align="center"> Hi there! 👋 Glad to see you here! </h1>
 
 <div align="center">
   <a href="https://github.com/MariadelCarmenGallardoGonzalez">
