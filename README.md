@@ -48,5 +48,6 @@
 <h2 align="center"> 📈 Github Stats</h2>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
+<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MariadelCarmenGallardoGonzalez&repo=Bgstatic&countColorcountColor&countColor=%23F7698C"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">Made with 💙 by Carmen Gonzalez</div>
