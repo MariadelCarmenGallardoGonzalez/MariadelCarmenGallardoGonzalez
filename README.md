@@ -16,14 +16,14 @@
  
   🌱 I’m currently learning HTML, CSS, JavaScript and solidifying my knowledge of C
 
-  👯 I’m looking to collaborate with other developers <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  👯 I’m looking to collaborate with other developers  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
  
   ⚡ Fun fact: I'm striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`
 
 
 </td><td width="50%">
 <div>
-<img src="https://i.pinimg.com/originals/d4/7b/a8/d47ba8d18f30a768c16cacce2e63dd21.gif">
+ <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://i.pinimg.com/originals/d4/7b/a8/d47ba8d18f30a768c16cacce2e63dd21.gif"></a>
 </div>
 </td></tr></table>
 
@@ -46,7 +46,7 @@
 </p>
                   
 <h2 align="center"> 📈 Github Stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="45%"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="45%"/>
+<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
+<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">Made with 💙 by Carmen Gonzalez</div>
