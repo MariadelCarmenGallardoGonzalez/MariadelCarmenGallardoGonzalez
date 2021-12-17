@@ -16,7 +16,7 @@
  
   🌱 I’m currently learning HTML, CSS, JavaScript and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"></a>
 
-  👯 I’m looking to collaborate with other developers  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
+  👯 I’m looking to collaborate with other <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
  
   ⚡ Fun fact: I'm striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`
 
