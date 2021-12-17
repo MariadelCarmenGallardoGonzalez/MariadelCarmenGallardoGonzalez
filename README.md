@@ -28,12 +28,19 @@
 </td></tr></table>
 
 <h2 align="center"> ✨ Hobbies </h2>
-<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://i.pinimg.com/originals/7d/89/43/7d894356fc90d951469bf64055b76ad1.gif" width="45%"></a>
-Being embarrassed is one of my favorite hobbies <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a>
+<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://i.pinimg.com/originals/7d/89/43/7d894356fc90d951469bf64055b76ad1.gif" width="45%"></a>
+
+📚 In my spare times (besides sleeping...) I like to attend workshops and take online courses.
+ 
+ 
+😳 Being embarrassed is one of my favorite hobbies <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a>
+
+
 <br>
-
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100px">
-
+<br>
+<br>
+<br>
+<br>
 <h2 align="center"> 🌿 Languages & Tools </h2>
 <br>
 <p align="center">
