@@ -2,7 +2,7 @@
 <p align="center">
  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Frontend+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
-<p align="center">Connect with me</p>
+<p align="center">Connect with me<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></a></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/mdcarmengonzalez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="CarmenGonzalez"/></a>
 </p>
