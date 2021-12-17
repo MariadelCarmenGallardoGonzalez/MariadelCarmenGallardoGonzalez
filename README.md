@@ -3,6 +3,7 @@
  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Frontend+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
+<h2 align="center"> 🚀 About Me </h2>
 <table align="center"><tr><td valign="center" width="50%">
  
 <br>
