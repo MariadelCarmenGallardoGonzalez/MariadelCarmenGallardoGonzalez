@@ -34,7 +34,7 @@
 <h2 align="center"> 🌿 Languages & Tools </h2>
 <br>
 <p align="center">
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="80px"/></a>
+  <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="80px"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="80px"/></a> &emsp;
   <a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="65px"/></a>&emsp;
   <a href="https://www.cprogramming.com/"><img src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png" alt="C" width="80px"/></a>&emsp;
