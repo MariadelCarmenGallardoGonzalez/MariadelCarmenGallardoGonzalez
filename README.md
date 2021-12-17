@@ -1,10 +1,8 @@
 <h1 align="center"> Hi there! 👋 Glad to see you here! </h1>
 
-<div align="center">
-  <a href="https://github.com/MariadelCarmenGallardoGonzalez">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariadelCarmenGallardoGonzalez&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="40%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="50%"/>
+
 <!--
 **MariadelCarmenGallardoGonzalez/MariadelCarmenGallardoGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
