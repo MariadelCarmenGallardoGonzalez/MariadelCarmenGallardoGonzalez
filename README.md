@@ -32,6 +32,8 @@
 Being embarrassed is one of my favorite hobbies <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></a>
 <br>
 
+<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="100px">
+
 <h2 align="center"> 🌿 Languages & Tools </h2>
 <br>
 <p align="center">
