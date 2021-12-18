@@ -39,9 +39,6 @@
 
 <br>
 <br>
-<br>
-<br>
-<br>
 <h2 align="center"> 🌿 Languages & Tools </h2>
 <br>
 <p align="center">
