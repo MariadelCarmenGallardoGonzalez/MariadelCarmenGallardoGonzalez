@@ -35,7 +35,7 @@
  
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"></a> I enjoy singing and socializing, especially in activities that intellectually stimulate me like general culture quizzes.
 
-😳 Being embarrassed is one of my favorite hobbies <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></a>
+<!--😳 Being embarrassed is one of my favorite hobbies <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></a>-->
 
 <br>
 <br>
