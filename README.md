@@ -35,7 +35,7 @@
  
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"></a> I enjoy singing and socializing, especially in activities that intellectually stimulate me like general culture quizzes.
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I like to write stories that start with `Once upon a tag` and end with `Happy ever coding` <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"></a>
+<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> I like to write stories that start with `Once upon a tag` and end with `Happy ever coding` <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"></a>
 
 <br>
 <br>
