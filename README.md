@@ -1,4 +1,4 @@
-<h1 align="center"> Hello world! <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="8px"></a> Glad to see you here! 👩‍💻</h1>
+<h1 align="center"> Hello world! <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px"></a> Glad to see you here! 👩‍💻</h1>
 <p align="center">
  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7698C&lines=MSc+Physics+Engineering;Front+-+end+Developer+enthusiast;Physics%20|%20Programming%20|%20Management%20;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
@@ -14,7 +14,7 @@
  
   🔭 I finished my Master in Physics Engineering in 2021. At the moment I am taking a second bachelor's degree in Management
  
-  🌱 I’m currently learning HTML, CSS, JavaScript and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="44px"></a>
+  🌱 I’m currently learning HTML, CSS, JavaScript and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
 
   👯 I’m looking to collaborate with other <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
  
@@ -53,10 +53,10 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="65px"/ </a>
 </p>
                   
-<h2 align="center"> 📈 Github Stats <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px"></a></h2>
+<h2 align="center"> 📈 Github Stats <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" height="34px"></a></h2>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://github-readme-stats.vercel.app/api?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariadelCarmenGallardoGonzalez&show_icons=true&locale=en&layout=compact&theme=dracula" alt="CarmenGonzalez" width="45%"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=MariadelCarmenGallardoGonzalez&repo=Bgstatic&countColorcountColor&countColor=%23F7698C"/></a>
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">Made with 💙 by Carmen Gonzalez</div>
-<p align ="center"> Show some 💙 by  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"></a> my repositories! &nbsp<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" width="20px"></a></p>
+<p align ="center"> Show some 💙 by  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" height="20px"></a> my repositories! &nbsp<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://user-images.githubusercontent.com/76244600/130682427-5b987fe2-9a2e-4e08-9e59-b951a8e58a84.gif" height="20px"></a></p>
