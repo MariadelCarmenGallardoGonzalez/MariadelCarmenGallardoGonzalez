@@ -45,6 +45,7 @@
   <a href="https://www.w3schools.com/html/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="80px"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" width="80px"/></a> &emsp;
   <a href="https://www.w3schools.com/js/DEFAULT.asp"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="65px"/></a>&emsp;
+   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="65px"/></a>&emsp;
   <a href="https://www.cprogramming.com/"><img src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png" alt="C" width="80px"/></a>&emsp;
   <a href="https://www.python.org"><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="80px"/></a>&emsp;
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="65px"/></a>&emsp;
