@@ -31,7 +31,7 @@
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://i.pinimg.com/originals/7d/89/43/7d894356fc90d951469bf64055b76ad1.gif" width="45%"></a>
 
 
-&ensp; 📚 In my spare times (besides sleeping... 😴) I like to attend workshops &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and take online courses.
+&ensp; 📚 In my spare times (besides sleeping... 😴) I like to attend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;workshops and take online courses.
  
 &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="27"></a> I enjoy singing and socializing, especially in activities that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intellectually stimulate me like general culture quizzes.
 
