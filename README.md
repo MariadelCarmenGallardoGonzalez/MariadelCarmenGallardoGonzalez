@@ -31,11 +31,11 @@
 <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img align="left" src="https://i.pinimg.com/originals/7d/89/43/7d894356fc90d951469bf64055b76ad1.gif" width="45%"></a>
 
 
-📚 In my spare times (besides sleeping... 😴) I like to attend workshops and take online courses.
+&ensp; 📚 In my spare times (besides sleeping... 😴) I like to attend workshops &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and take online courses.
  
-<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"></a> I enjoy singing and socializing, especially in activities that intellectually stimulate me like general culture quizzes.
+&nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30"></a> I enjoy singing and socializing, especially in activities that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intellectually stimulate me like general culture quizzes.
 
-<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> I like to write stories that start with `Once upon a tag` and end with `Happy ever coding` <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"></a>
+&nbsp; <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"></a> I like to write stories that start with `Once upon a tag` and end with `Happy ever coding` <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"></a>
 
 <br>
 <br>
