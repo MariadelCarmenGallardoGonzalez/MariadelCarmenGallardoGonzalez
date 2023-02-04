@@ -14,7 +14,7 @@
  
   🔭 I finished my Master in Physics Engineering in 2021. At the moment I am taking a second bachelor's degree in Management
  
-  🌱 I’m currently learning HTML, CSS, JavaScript, React and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
+  🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, React and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
 
   👯 I’m looking to collaborate with other <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
  
