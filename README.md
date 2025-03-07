@@ -12,9 +12,9 @@
  
 <br>
  
-  🔭 I finished my Master in Physics Engineering in 2021. At the moment I am taking a second bachelor's degree in Management
+  🔭 I finished my Master in Physics Engineering in 2021. I also finished a degree in Management in 2023. I'm currently studying a Bachelor's degree in Computer Engineering.
  
-  🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, React and solidifying my knowledge of C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
+  🌱 I’m currently learning Java, Shell and C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
 
   👯 I’m looking to collaborate with other <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>  <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"></a>
  
@@ -33,7 +33,7 @@
 
 &ensp; 📚 In my spare times (besides sleeping... 😴) I like to attend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;workshops and take online courses.
  
-&nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="27"></a> I enjoy singing and socializing, especially in activities that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intellectually stimulate me like general culture quizzes.
+&nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="27"></a> I enjoy singing and socializing, especially in activities that &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;intellectually stimulate me.
 
 &nbsp; <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="27"></a> I like to write stories that start with `Once upon a tag` and end <br>&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with `Happy ever coding` <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"></br></a>
 
