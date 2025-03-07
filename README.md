@@ -50,7 +50,7 @@
   <a href="https://www.python.org"><img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="Python" width="77px"/></a>&emsp;
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="62px"/></a>&emsp;
   <a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="62px"/></a>&emsp;
-  <a href="https://code.visualstudio.com/download"><img src="[https://cdn.icon-icons.com/icons2/1381/PNG/512/visualstudiocode_93981.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)" alt="Visual Studio Code" width="77px"/></a>&emsp;
+  <a href="https://code.visualstudio.com/download"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60px"/></a>&emsp;
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="62px"/ </a>
 </p>
                   
