@@ -12,7 +12,7 @@
  
 <br>
  
-  🔭 I finished my Master in Physics Engineering in 2021. I also finished a degree in Management in 2023. I'm currently studying a Bachelor's degree in Computer Engineering.
+  🔭 I finished a Master in Physics Engineering in 2021. I also finished a degree in Management in 2023. I'm currently studying a Bachelor's degree in Computer Engineering.
  
   🌱 I’m currently learning Java, Shell and C &nbsp;<a href="https://github.com/MariadelCarmenGallardoGonzalez"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" height="20px"></a>
 
@@ -20,6 +20,7 @@
  
   ⚡ Fun fact: I'm striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`
 
+<br>
 
 </td><td width="50%">
 <div>
